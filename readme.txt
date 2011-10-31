@@ -1,3 +1,1 @@
-Welcome to the test repository by Adrian Perrreau
-
-Pepito has added comment! 
+Welcome to the test repository by Adrian Perrreau! Right on!
